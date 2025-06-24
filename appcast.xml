@@ -4,19 +4,11 @@
         <title>LlamaBarn</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Tue, 24 Jun 2025 13:17:11 +0300</pubDate>
+            <pubDate>Tue, 24 Jun 2025 14:15:59 +0300</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LlamaBarn/barnllama/releases/download/0.1.0/LlamaBarn.zip" length="8764756" type="application/octet-stream" sparkle:edSignature="cNLU7i3mwqrszCrJzBtI18h5yDBvZ6oVh8Tbvqpab5a4rZrkoNmKNOC+lvpY/WX31prrutlBDgJd5AevYkLXCA=="/>
-        </item>
-        <item>
-            <title>0.0.1</title>
-            <pubDate>Tue, 24 Jun 2025 13:06:27 +0300</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LlamaBarn/barnllama/releases/download/0.0.1/LlamaBarn.zip" length="8764697" type="application/octet-stream" sparkle:edSignature="sAebyaMZS+HhVKkh0pXIGpYyHaMwPfx5+++2oSbdchEE4m+zY+rBP4XAGKfnpOD6koLUBLX7ttiuNxb1umbMAQ=="/>
+            <enclosure url="https://github.com/LlamaBarn/barnllama/releases/download/LlamaBarn.zip" length="8764756" type="application/octet-stream" sparkle:edSignature="cNLU7i3mwqrszCrJzBtI18h5yDBvZ6oVh8Tbvqpab5a4rZrkoNmKNOC+lvpY/WX31prrutlBDgJd5AevYkLXCA=="/>
         </item>
     </channel>
 </rss>
