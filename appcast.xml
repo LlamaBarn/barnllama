@@ -8,7 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LlamaBarn/barnllama/releases/download/LlamaBarn.zip" length="8764756" type="application/octet-stream" sparkle:edSignature="cNLU7i3mwqrszCrJzBtI18h5yDBvZ6oVh8Tbvqpab5a4rZrkoNmKNOC+lvpY/WX31prrutlBDgJd5AevYkLXCA=="/>
+            <enclosure url="https://github.com/LlamaBarn/barnllama/releases/download/0.1.0/LlamaBarn.zip" length="8764756" type="application/octet-stream" sparkle:edSignature="cNLU7i3mwqrszCrJzBtI18h5yDBvZ6oVh8Tbvqpab5a4rZrkoNmKNOC+lvpY/WX31prrutlBDgJd5AevYkLXCA=="/>
         </item>
     </channel>
 </rss>
