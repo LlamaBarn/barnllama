@@ -3,12 +3,12 @@
     <channel>
         <title>LlamaBarn</title>
         <item>
-            <title>0.1.0</title>
-            <pubDate>Tue, 24 Jun 2025 14:41:31 +0300</pubDate>
+            <title>0.0.2</title>
+            <pubDate>Thu, 26 Jun 2025 10:12:01 +0300</pubDate>
             <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LlamaBarn/barnllama/releases/download/0.1.0/LlamaBarn.zip" length="8764749" type="application/octet-stream" sparkle:edSignature="4o+M4D/WWl0nHvwWSZhf1ReN88w9NiiX/fSn7JetxhvHTRrp2DIl9n1NAcyiTsnydqHSrjyhY6voLXrWF+5bDw=="/>
+            <enclosure url="https://github.com/LlamaBarn/barnllama/releases/download/%7Bversion%7D/LlamaBarn.zip" length="8771457" type="application/octet-stream" sparkle:edSignature="ji1KJcTx6ncJb8tFoU50vws/8KI0IwvC+3dz5HqPEvhMXXWT/ohNwfhuYGoDgPQfuPh7B50lqjCEXF+T/wkpCQ=="/>
         </item>
     </channel>
 </rss>
