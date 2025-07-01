@@ -9,6 +9,10 @@
             <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/LlamaBarn/barnllama/releases/download/0.0.2/LlamaBarn.zip" length="8771457" type="application/octet-stream" sparkle:edSignature="ji1KJcTx6ncJb8tFoU50vws/8KI0IwvC+3dz5HqPEvhMXXWT/ohNwfhuYGoDgPQfuPh7B50lqjCEXF+T/wkpCQ=="/>
+            <description><![CDATA[<ul>
+    <li>It's just a good app with good features</li>
+    <li>Run local models easily</li>
+</ul>]]></description>
         </item>
     </channel>
 </rss>
